@@ -20,7 +20,7 @@
 </p>
 
 
-## ❓ About
+<h2 id="about">❓ About</h2>
 
  📄 Save and complete your tasks!
 
@@ -56,7 +56,7 @@ $ npm run dev
 
 ---
 
-## 🛠️ Tech Stack
+<h2 id="tech-stack">🛠️ Tech Stack</h2>
 
 The following tools were used in the construction of the project:
 
@@ -71,7 +71,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 🤔 How to contribute
+<h2 id="how-to-contribute">🤔 How to contribute</h2>
 
 1. Fork the project.
 2. Create a new branch with your changes: `git checkout -b my-feature`
@@ -80,7 +80,7 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 🧒🏽 Author
+<h2 id="author">🧒🏽 Author</h2>
 
   <a href="https://github.com/NiltonIzaguirres">
     <img style="border-radius: 50%;" src="https://github.com/NiltonIzaguirres.png" width="100px;" alt="Nilton Izaguirres"/>
@@ -100,6 +100,6 @@ The following tools were used in the construction of the project:
 
 ---
 
-## 📄 License
+<h2 id="user-content-license">📄 License</h2>
 
 This project is under the license [MIT](./LICENSE).
